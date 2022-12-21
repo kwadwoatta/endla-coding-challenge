@@ -1,0 +1,30 @@
+[
+  {
+    "Header": "Well Name",
+    "accessor": "wellName"
+  },
+  {
+    "Header": "Locate",
+    "accessor": "locate"
+  },
+  {
+    "Header": "Show",
+    "accessor": "show"
+  },
+  {
+    "Header": "Tags",
+    "accessor": "tags"
+  },
+  {
+    "Header": "Longitude",
+    "accessor": "longitude"
+  },
+  {
+    "Header": "Latitude",
+    "accessor": "latitude"
+  },
+  {
+    "Header": "Elevation",
+    "accessor": "elevation"
+  }
+]
